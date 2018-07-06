@@ -46,3 +46,7 @@ public static int SumX(int x, int N)
             }
             return hasil;
         }
+
+
+
+(Di Dalam Program.cs)
